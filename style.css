@@ -1,0 +1,51 @@
+button{
+    color: white;
+    background-color: red;
+    border-radius: 25px;
+    width: 250px;
+    height: 30px;
+    margin-left: 50px;
+}
+div{
+    background-color: rgb(10, 41, 68);
+    border-radius: 20px;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+}
+
+.parent{
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.ilon{
+    padding: 30px;
+    background-color: black;
+    color: white;
+    width: 130px;
+    border-radius: 30px;
+    margin-left: 820px;
+    margin-top: 30px;
+}
+
+img{
+    margin-right: 100px;
+}
+
+.malibu{
+    padding: 40px;
+    background-color: yellow;
+    border: 35px solid red;
+    width: 250px;
+    height: min-content;
+    border-radius: 30px;
+    margin-right: 35px;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+}
